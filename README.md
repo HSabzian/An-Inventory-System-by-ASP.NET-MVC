@@ -10,13 +10,16 @@ This Inventory Management System is designed to help you track the status of ite
 
 
  By logging the system ((userid = 1, Password = RyanLove@@10), you can do CRUD operation as following
+
+ 
 ![CLocations_1](https://github.com/user-attachments/assets/e83727c5-240f-431c-8202-af480684f827)
  and 
 ![CAssets_2](https://github.com/user-attachments/assets/494d74a7-18d9-4765-b628-869c2f64a5c9)
-
 and 
   ![Cdeplot_3](https://github.com/user-attachments/assets/16c4f985-03e5-44e9-8869-92215ba4c40a)
 
+
+  
 The system offers a model that can be expanded and enhanced to meet specific needs, providing robust tracking and management of assets across the entire life cycle.
 
 ## Entity-Relationship (ER) Diagram
@@ -96,10 +99,4 @@ The ER diagram for the Inventory Management System is structured around several 
 - **VendorMaster** to `AssetProcurement`, `AssetAcquisition`, and `AssetDeployment` (one vendor can provide multiple assets)
 - **AssetMaster** to `AssetProcurement`, `AssetAcquisition`, and `AssetDeployment` (one asset can go through multiple procurement, acquisition, and deployment processes)
 
----
 
-This structure provides a comprehensive overview of the system's data model, allowing efficient tracking and management of assets across multiple branches and stages. 
-
---- 
-
-Let me know if you'd like further adjustments to suit any specific requirements for the README file.
