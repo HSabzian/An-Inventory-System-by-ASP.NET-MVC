@@ -1,48 +1,21 @@
 
 
-# Inventory Management System (userid = 1, Password = RyanLove@@10)
+# Inventory Management System 
 
-This Inventory Management System is designed to help you track the status of items (referred to as *assets*) for each quote (represented by a *quotation number*) across all of your branches (we assume SJ Rollins has multiple branches in the US) at three distinct stages:
+This Inventory Management System is designed to help you track the status of items (referred to as *assets*) for each quote (represented by a *quotation number*) across all of your branches (we assume the company has multiple branches in the US) at three distinct stages:
 
 - **Procurement**: When the items are ordered.
 - **Acquisition**: When the items are received and staged in the warehouse.
 - **Deployment**: When the items are delivered, deployed, or returned/edited.
 
 
-
-
- By logging the system, you will see such things
-
-
-![Page_1](https://github.com/user-attachments/assets/b7dfe92a-20a5-431e-adff-5c72c84650f5)
-
-
- then
-
- ![Page_2](https://github.com/user-attachments/assets/04b577cc-121f-40b3-bbdc-beca73356830)
-
-with its menues as following:
-
-![Page_3](https://github.com/user-attachments/assets/9fe78276-70fd-4230-9e27-09a8b080c80e)
-
-
-and you can make CRUD operations as following:
-
+ By logging the system ((userid = 1, Password = RyanLove@@10), you can do CRUD operation as following
 ![CLocations_1](https://github.com/user-attachments/assets/e83727c5-240f-431c-8202-af480684f827)
-
  and 
-
 ![CAssets_2](https://github.com/user-attachments/assets/494d74a7-18d9-4765-b628-869c2f64a5c9)
 
-
-
 and 
-
-
   ![Cdeplot_3](https://github.com/user-attachments/assets/16c4f985-03e5-44e9-8869-92215ba4c40a)
-
-
-
 
 The system offers a model that can be expanded and enhanced to meet specific needs, providing robust tracking and management of assets across the entire life cycle.
 
